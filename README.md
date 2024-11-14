@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecoredsena-atlantico.github.io/66410054_CF02_MANEJO_DE_LA_INFORMACION_TURISTICA/#/](https://ecoredsena-atlantico.github.io/66410054_CF02_MANEJO_DE_LA_INFORMACION_TURISTICA/#/)
 
 #
 
