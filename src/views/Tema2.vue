@@ -86,7 +86,7 @@
       .col-lg-3.col-md-8
         img.my-3(src="@/assets/curso/temas/tema2/img12.svg", alt="imagen decorativa")
 
-    .row.justify-content-center.my-3.fnd-tabla
+    .row.fnd-tabla.justify-content-center.my-3
       .col-lg-6.col-md-12
         .titulo-sexto.color-acento-contenido.mb-3
             h5 Tabla 2.
