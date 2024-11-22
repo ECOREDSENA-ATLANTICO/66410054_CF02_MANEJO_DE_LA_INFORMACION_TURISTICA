@@ -2,13 +2,13 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: -7%
+    top: 5%
     right: 0%
   &-2
     animation: float2 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 0%
+    top: -10%
+    right: 80%
   &-3
     animation: float3 2.8s ease-in-out infinite alternate
     position: absolute
@@ -18,10 +18,10 @@
 
 @keyframes float1
   0%
-    transform: translateY(60px)
+    transform: translateX(-5px)
 
   100%
-    transform: translateY(80px)
+    transform: translateX(-30px)
 @keyframes float2
   0%
     transform: translateY(98px)
@@ -79,15 +79,21 @@
 
 .tabla-b th
   border: 2px solid #006170
-  background-color: white  
+  background-color: white 
+
 .tabla-b td
   border: 2px solid #006170
   padding: 0.7em
 
-.tabla-d th
+.tabla-a thead 
+  border-top: 1.5px solid
+  color: #111e61
+
+
+.tabla-a th
   border: 1.5px solid #000000
   padding: 0.5em
-.tabla-d td
+.tabla-a td
   border: 1.5px solid #000000
   padding: 0.5em
 
@@ -140,12 +146,25 @@
 
 .fnd-tabla
   background-image: url(../assets/curso/temas/tema2/img13.png) !important
-  background-size: contain
+  background-size: cover
   background: center
   background-repeat: no-repeat
+  margin-right: -3.5em
+
 
 .linea-tiempo-d__item__content__title 
     display: flex
     align-items: center
     height: 55px
     cursor: pointer
+
+.banner-interno__titulo__icono i 
+  color: #ffffff !important
+
+.banner-interno__titulo__icono 
+  display: block
+  width: 32px
+  height: 32px
+  border-radius: 50%
+  background-color: #12172C !important
+  position: relative

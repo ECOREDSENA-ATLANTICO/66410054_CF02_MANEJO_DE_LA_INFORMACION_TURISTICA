@@ -87,13 +87,12 @@
         img.my-3(src="@/assets/curso/temas/tema2/img12.svg", alt="imagen decorativa")
 
     .row.fnd-tabla.justify-content-center.my-3
-      .col-lg-6.col-md-12
+      .col-xl-7.col-lg-12.col-md-12.me-5
         .titulo-sexto.color-acento-contenido.mb-3
             h5 Tabla 2.
             span <em>Ejemplo de encuesta a usuarios</em>
-        .tabla-d
+        .tabla-a
           table
-          
             thead
               tr
                 td(style="background: #D3F8CB")  Logo de la empresa
@@ -228,7 +227,7 @@
     p.my-3 Con base en la interpretación de resultados, el prestador de servicios directos (informador turístico) junto con el responsable de la empresa o jefe inmediato, proponen un plan de mejoramiento en los servicios prestados, que subsane la evaluación desfavorable.<br>La tabulación de resultados expresada gráficamente muestra con claridad los valores de calificación del servicio prestado, es decir, la percepción objetiva entregada por el usuario.
 
     .row.justify-content-center.my-3
-      .col-lg-8.col-md-12
+      .col-xl-8.col-lg-12.col-md-12
         .titulo-sexto.color-acento-contenido.mb-3
             h5 Tabla 3.
             span <em>Modelo de plan de mejoramiento</em>

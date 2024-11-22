@@ -186,7 +186,7 @@ export default {
     {
       referencia:
         'abalnearios.com. (2014). Tipos de centros. recuperado el 15 de 02 de 2014, de',
-      link: 'abalnearios.com',
+      link: 'http://www.abalnearios.com/',
     },
     {
       referencia:

@@ -25,50 +25,50 @@
     TabsA.mb-5
       .tarjeta.p-4(titulo="Hoteles")
         .row.justify-content-center.p-3
-          .col-lg-5.col-md-12.align-content-center  
+          .col-xl-5.col-lg-12.col-md-12.align-content-center  
             h5 Hoteles
             p Establecimiento que presta en forma permanente el servicio de alojamiento en habitaciones con servicio sanitario privado, ofreciendo al huésped servicios básicos y complementarios, según su categoría y modalidad; su tarifa de alojamiento diaria corresponde al tipo de habitación y número de ocupantes (Minep - Ministerio para la Economía Popular. Instituto Nacional de cooperación Educativa, 2005).
-          .col-lg-7.col.col-md-8.align-content-center  
+          .col-xl-7.col-lg-8.col.col-md-8.align-content-center  
             figure
               img(src='@/assets/curso/temas/tema1/img3.png', alt='Imagen decorativa')
       .tarjeta.p-4(titulo="Hotel residencia")
         .row.justify-content-center.p-3
-          .col-lg-8.col-md-12.align-content-center  
+          .col-xl-8.col-lg-12.col-md-12.align-content-center  
             h5 Hotel residencia
             p Es aquel establecimiento que presta en forma permanente el servicio de alojamiento en apartamentos o cabañas, ofreciendo al huésped un mínimo de servicios básicos y complementarios, según su categoría y modalidad; siendo sus tarifas de alojamiento diarias y especiales para estancias prolongadas, no inferiores a quince días, por tipo de apartamento o cabaña y número de ocupantes (Minep - Ministerio para la economía popular. instituto nacional de cooperación educativa, 2005).
-          .col-lg-4.col.col-md-8.align-content-center  
+          .col-xl-4.col-lg-8.col.col-md-8.align-content-center  
             figure
               img(src='@/assets/curso/temas/tema1/img4.png', alt='Imagen decorativa')
       .tarjeta.p-4(titulo="Hostal")
         .row.justify-content-center.p-3
-          .col-lg-3.col-md-12.align-content-center  
+          .col-xl-3.col-lg-12.col-md-12.align-content-center  
             h5 Hostal
             p Establecimiento público que se encuentra generalmente ubicado cerca de las rutas de tránsito y ofrece servicios habitación, baño y estacionamiento. Se considera de menor categoría que un hotel.
-          .col-lg-9.col-md-8.align-content-center  
+          .col-xl-9.col-lg-8.col-md-8.align-content-center  
             figure
               img(src='@/assets/curso/temas/tema1/img5.png', alt='Imagen decorativa')
       .tarjeta.p-4(titulo="Camping")
         .row.justify-content-center.p-3
-          .col-lg-5.col-md-12.align-content-center  
+          .col-xl-5.col-lg-12.col-md-12.align-content-center  
             h5 Camping
             p Lugar o conjunto de instalaciones, generalmente al aire libre, acondicionado para acampar en él o alojarse temporalmente; cabe destacar que un campamento es una instalación eventual de personas, ubicadas en un terreno abierto o dispuesto para albergar viajeros o turistas que puedan disfrutar de una actividad recreativa o educativa.
-          .col-lg-7.col.col-md-8.align-content-center  
+          .col-xl-7.col-lg-8.col-md-8.align-content-center  
             figure
               img(src='@/assets/curso/temas/tema1/img6.png', alt='Imagen decorativa')
       .tarjeta.p-4(titulo="Pensión")
         .row.justify-content-center.p-3
-          .col-lg-7.col-md-12.align-content-center  
+          .col-xl-7.col-lg-12.col-md-12.align-content-center  
             h5 Pensión
             p Establecimiento que presta en forma permanente el servicio de alojamiento en habitaciones, con servicio sanitario privado y/o común colectivo. Por requerimiento del huésped se ofrece servicio de alimentación bajo el régimen completo o medio; siendo su tarifa de alojamiento periódica — diaria, semanal, quincenal o mensual — e incluirá en cada caso el régimen de comidas convenido con el huésped. (Minep - Ministerio para la economía popular. Instituto nacional de cooperación educativa, 2005)
-          .col-lg-5.col.col-md-8.align-content-center  
+          .col-xl-5.col-lg-8.col-md-8.align-content-center  
             figure
               img(src='@/assets/curso/temas/tema1/img7.png', alt='Imagen decorativa')
       .tarjeta.p-4(titulo="Balnearios o clínicas<br>de recuperación")
         .row.justify-content-center.p-3
-          .col-lg-7.col-md-12.align-content-center  
+          .col-xl-7.col-lg-12.col-md-12.align-content-center  
             h5 Balnearios o clínicas de recuperación
             p establecimiento que ofrecen programas de relajación, antiestrés y curas de desintoxicación, basándose en las necesidades actuales de la gente y en su ritmo de vida. Otra de las alternativas es servicio de alojamiento y programas médicos de rehabilitación, curación o prevención de enfermedades, muchos de ellos destinados a personas de avanzada edad o con patologías específicas. (abalnearios.com, 2014)
-          .col-lg-5.col.col-md-8.align-content-center  
+          .col-xl-5.col-lg-8.col-md-8.align-content-center  
             figure
               img(src='@/assets/curso/temas/tema1/img8.png', alt='Imagen decorativa')
 
@@ -109,7 +109,7 @@
 
     
     .row.justify-content-center.my-3
-      .col-lg-8.col-md-12
+      .col-xl-8.col-lg-12.col-md-12
         .titulo-sexto.color-acento-contenido.mb-3
             h5 Tabla 1.
             span <em>Servicio turístico</em>
