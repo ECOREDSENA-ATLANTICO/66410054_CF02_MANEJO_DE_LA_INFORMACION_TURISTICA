@@ -118,7 +118,7 @@ export default {
         'se define como la capacidad de un destino para crear e integrar productos con valor añadido, que permitan sostener los recursos locales y conservar su posición de mercado respecto a sus competidores.',
     },
     {
-      termino: 'Demanda Turística',
+      termino: 'Demanda turística',
       significado:
         'se define como el volumen de turistas que visitan un destino durante un período determinado.',
     },
@@ -153,7 +153,7 @@ export default {
         'es la forma y tamaño de presentación de una información ya sea impresa o escrita.',
     },
     {
-      termino: 'Medio de Transporte',
+      termino: 'Medio de transporte',
       significado:
         'medio de locomoción utilizado para el traslado de las personas o bienes desde un punto origen a un punto destino.',
     },
@@ -173,8 +173,8 @@ export default {
         'es el cumplimento de una necesidad o deseo que cause alegría y placer.',
     },
     {
-      termino: 'TICs',
-      significado: 'tecnologías de la Información y la Comunicación.',
+      termino: 'TIC',
+      significado: 'tecnologías de la información y la comunicación.',
     },
     {
       termino: 'Turista',
@@ -185,7 +185,7 @@ export default {
   referencias: [
     {
       referencia:
-        'abalnearios.com. (2014). Tipos de centros. recuperado el 15 de 02 de 2014, de',
+        'Abalnearios.com. (2014). Tipos de centros. recuperado el 15 de 02 de 2014, de',
       link: 'http://www.abalnearios.com/',
     },
     {
@@ -273,12 +273,12 @@ export default {
         {
           nombre: 'Luis Orlando Beltrán Vargas',
           cargo: 'Asesor pedagógico',
-          centro: 'Centro de comercio y servicios - Regional caldas',
+          centro: 'Centro de comercio y servicios - Regional Caldas',
         },
         {
           nombre: 'José Armando Díaz Londoño',
           cargo: 'Líder de expertos temáticos',
-          centro: 'Centro de comercio y servicios - Regional caldas',
+          centro: 'Centro de comercio y servicios - Regional Caldas',
         },
         {
           nombre: 'Fabian Cuartas Donado',
