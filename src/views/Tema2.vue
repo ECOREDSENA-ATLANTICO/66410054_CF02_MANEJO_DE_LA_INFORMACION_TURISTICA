@@ -205,7 +205,7 @@
       .col-auto
         img(src='@/assets/curso/temas/tema1/img2.svg', alt='Imagen decorativa')
       .col.px-0
-        h3.mb-0 Graficas e Interpretación de Encuestas
+        h3.mb-0 Graficas e interpretación de encuestas
     
     b Mediante las encuestas y tabulación de resultados el prestador de servicios turísticos puede graficar e interpretar los mismos para la toma de decisiones: 
     
@@ -213,7 +213,7 @@
 
     .row.justify-content-center.my-3 
       .col-lg-7 
-        p Figura 1. <em>resultados de desempeño laboral.</em>
+        p Figura 1. <em>Resultados de desempeño laboral.</em>
 
         img(src='@/assets/curso/temas/tema2/img14.svg', alt='Imagen decorativa')
         p.my-3.text-center Fuente: Encuesta a usuarios de los servicios turísticos 

@@ -133,7 +133,7 @@
               tr
                 td(style="background: #D3F8CB") TERRESTRE
                 td(style="background: #D3F8CB") Transporte regular
-                td(style="background: #D3F8CB") Se encarga del transporte de pasajeros con horarios e itinerarios Fijos. Es el más utilizado por los turistas nacionales, se toma especialmente en estaciones de autobuses.
+                td(style="background: #D3F8CB") Se encarga del transporte de pasajeros con horarios e itinerarios fijos. Es el más utilizado por los turistas nacionales, se toma especialmente en estaciones de autobuses.
               tr
                 td(style="background: #F3FDF1") TERRESTRE
                 td(style="background: #F3FDF1") Transporte no regular
