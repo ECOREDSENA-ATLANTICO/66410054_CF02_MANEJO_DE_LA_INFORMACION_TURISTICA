@@ -101,101 +101,101 @@
           table
             thead
               tr
-                td(style="background: #D3F8CB")  Logo de la empresa
-                td(style="background: #D3F8CB")  Evaluación de desempeño
-                td(style="background: #D3F8CB")  Código:
+                td(style="background: #EAFCEB")  Logo de la empresa
+                td(style="background: #EAFCEB")  Evaluación de desempeño
+                td(style="background: #EAFCEB")  Código:
             tbody
               tr
-                td(style="background: #D3F8CB") 
-                td(style="background: #D3F8CB") 
-                td(style="background: #D3F8CB") Versión:
+                td(style="background: #EAFCEB") 
+                td(style="background: #EAFCEB") 
+                td(style="background: #EAFCEB") Versión:
               tr
-                td(style="background: #D3F8CB") 
-                td(style="background: #D3F8CB") 
-                td(style="background: #D3F8CB") Fecha:
+                td(style="background: #EAFCEB") 
+                td(style="background: #EAFCEB") 
+                td(style="background: #EAFCEB") Fecha:
               tr
-                td(style="background: #D3F8CB") Fecha
-                td(style="background: #D3F8CB") 
-                td(style="background: #D3F8CB") 
+                td(style="background: #EAFCEB") Fecha
+                td(style="background: #EAFCEB") 
+                td(style="background: #EAFCEB") 
               tr
-                td(style="background: #D3F8CB") Nombre del empleado
-                td(style="background: #D3F8CB") 
-                td(style="background: #D3F8CB") 
+                td(style="background: #EAFCEB") Nombre del empleado
+                td(style="background: #EAFCEB") 
+                td(style="background: #EAFCEB") 
               tr
-                td(style="background: #D3F8CB") Jefe inmediato
-                td(style="background: #D3F8CB") 
-                td(style="background: #D3F8CB") 
+                td(style="background: #EAFCEB") Jefe inmediato
+                td(style="background: #EAFCEB") 
+                td(style="background: #EAFCEB") 
               tr
-                td(colspan="3")(style="background: #F3FDF1") La empresa de turismo ZZZ desea conocer su opinión acerca del desempeño de los empleados, para así poder implementar un mejor servicio y atención al cliente. Solicitamos a usted (es) contestar la siguiente encuesta, teniendo en cuenta la siguiente calificación:<br><b>(5) =Excelente. (4) = Bueno. (3) = Regular. (2) = Deficiente.</b>
+                td(colspan="3")(style="background: #ffffff") La empresa de turismo ZZZ desea conocer su opinión acerca del desempeño de los empleados, para así poder implementar un mejor servicio y atención al cliente. Solicitamos a usted (es) contestar la siguiente encuesta, teniendo en cuenta la siguiente calificación:<br><b>(5) =Excelente. (4) = Bueno. (3) = Regular. (2) = Deficiente.</b>
               tr
-                td(style="background: #D3F8CB") <b>Desempeño laboral</b>
-                td(style="background: #D3F8CB") 
-                td(style="background: #D3F8CB") Calificación
+                td(style="background: #EAFCEB") <b>Desempeño laboral</b>
+                td(style="background: #EAFCEB") 
+                td(style="background: #EAFCEB") Calificación
               tr
-                td(colspan="2")(rowspan="5")(style="background: #D3F8CB") - Responsabilidad<br>- Calidad en el trabajo<br>- Dominio de la información de prestadores de servicios<br>- Dominio de la información de atractivos turísticos<br>- Comprensión de solicitudes
-                td(style="background: #D3F8CB") 
+                td(colspan="2")(rowspan="5")(style="background: #EAFCEB") - Responsabilidad<br>- Calidad en el trabajo<br>- Dominio de la información de prestadores de servicios<br>- Dominio de la información de atractivos turísticos<br>- Comprensión de solicitudes
+                td(style="background: #EAFCEB") 
               tr
-                td(style="background: #D3F8CB") 
+                td(style="background: #EAFCEB") 
               tr
-                td(style="background: #D3F8CB") 
+                td(style="background: #EAFCEB") 
               tr
-                td(style="background: #D3F8CB") 
+                td(style="background: #EAFCEB") 
               tr
-                td(style="background: #D3F8CB") 
+                td(style="background: #EAFCEB") 
               tr
-                td(colspan="2")(style="background: #F3FDF1") <b>Factores de actitud</b>
-                td(style="background: #F3FDF1") Calificación
+                td(colspan="2")(style="background: #ffffff") <b>Factores de actitud</b>
+                td(style="background: #ffffff") Calificación
               tr
-                td(colspan="2")(style="background: #F3FDF1") - Actitud hacia el cliente
-                td(style="background: #F3FDF1") 
+                td(colspan="2")(style="background: #ffffff") - Actitud hacia el cliente
+                td(style="background: #ffffff") 
               tr
-                td(colspan="2")(style="background: #F3FDF1") - Asertividad
-                td(style="background: #F3FDF1") 
+                td(colspan="2")(style="background: #ffffff") - Asertividad
+                td(style="background: #ffffff") 
               tr
-                td(colspan="2")(style="background: #F3FDF1") - Presentación personal
-                td(style="background: #F3FDF1") 
+                td(colspan="2")(style="background: #ffffff") - Presentación personal
+                td(style="background: #ffffff") 
               tr
-                td(colspan="2")(style="background: #F3FDF1") - Disposición
-                td(style="background: #F3FDF1") 
+                td(colspan="2")(style="background: #ffffff") - Disposición
+                td(style="background: #ffffff") 
               tr
-                td(colspan="2")(style="background: #D3F8CB") <b>Habilidades</b>
-                td(style="background: #D3F8CB") Calificación
+                td(colspan="2")(style="background: #EAFCEB") <b>Habilidades</b>
+                td(style="background: #EAFCEB") Calificación
               tr
-                td(colspan="2")(style="background: #D3F8CB") - Creatividad
-                td(style="background: #D3F8CB") 
+                td(colspan="2")(style="background: #EAFCEB") - Creatividad
+                td(style="background: #EAFCEB") 
               tr
-                td(colspan="2")(style="background: #D3F8CB") - Manejo de información
-                td(style="background: #D3F8CB") 
+                td(colspan="2")(style="background: #EAFCEB") - Manejo de información
+                td(style="background: #EAFCEB") 
               tr
-                td(colspan="2")(style="background: #D3F8CB") - Carisma
-                td(style="background: #D3F8CB") 
+                td(colspan="2")(style="background: #EAFCEB") - Carisma
+                td(style="background: #EAFCEB") 
               tr
-                td(colspan="2")(style="background: #D3F8CB") - Compromiso demostrado
-                td(style="background: #D3F8CB") 
+                td(colspan="2")(style="background: #EAFCEB") - Compromiso demostrado
+                td(style="background: #EAFCEB") 
               tr
-                td(colspan="2")(style="background: #D3F8CB") - Manejo de respuestas bajo presión
-                td(style="background: #D3F8CB") 
+                td(colspan="2")(style="background: #EAFCEB") - Manejo de respuestas bajo presión
+                td(style="background: #EAFCEB") 
               tr
-                td(colspan="2")(style="background: #F3FDF1") <b>Mencione los aspectos que deberían mejorar:</b>
-                td(style="background: #F3FDF1") 
+                td(colspan="2")(style="background: #ffffff") <b>Mencione los aspectos que deberían mejorar:</b>
+                td(style="background: #ffffff") 
               tr
-                td(colspan="2")(style="background: #F3FDF1; padding:1em")
-                td(style="background: #F3FDF1") 
+                td(colspan="2")(style="background: #ffffff; padding:1em")
+                td(style="background: #ffffff") 
               tr
-                td(colspan="2")(style="background: #F3FDF1; padding:1em")
-                td(style="background: #F3FDF1") 
+                td(colspan="2")(style="background: #ffffff; padding:1em")
+                td(style="background: #ffffff") 
               tr
-                td(colspan="2")(style="background: #F3FDF1; padding:1em")
-                td(style="background: #F3FDF1") 
+                td(colspan="2")(style="background: #ffffff; padding:1em")
+                td(style="background: #ffffff") 
               tr
-                td(colspan="2")(style="background: #D3F8CB") <b>Observaciones</b>
-                td(style="background: #D3F8CB") 
+                td(colspan="2")(style="background: #EAFCEB") <b>Observaciones</b>
+                td(style="background: #EAFCEB") 
               tr
-                td(colspan="2")(style="background: #D3F8CB; padding:1em")
-                td(style="background: #D3F8CB") 
+                td(colspan="2")(style="background: #EAFCEB; padding:1em")
+                td(style="background: #EAFCEB") 
               tr
-                td(colspan="2")(style="background: #D3F8CB; padding:1em")
-                td(style="background: #D3F8CB") 
+                td(colspan="2")(style="background: #EAFCEB; padding:1em")
+                td(style="background: #EAFCEB") 
         p.text-center Fuente: Sena (2024).
     h3(data-aos="fade-left").mb-3.mt-3.blue_icon Retroalimentación de servicios prestados
 
@@ -242,18 +242,18 @@
           table
             thead
               tr
-                th(style="background: #D3F8CB") Gestión de mejoramiento
-                th(style="background: #D3F8CB") Objetivos
-                th(style="background: #D3F8CB") Actividades para realizar
-                th(style="background: #D3F8CB") Responsable de ejecución
-                th(style="background: #D3F8CB") Plazo de ejecución del plan
+                th(style="background: #99F59F") Gestión de mejoramiento
+                th(style="background: #99F59F") Objetivos
+                th(style="background: #99F59F") Actividades para realizar
+                th(style="background: #99F59F") Responsable de ejecución
+                th(style="background: #99F59F") Plazo de ejecución del plan
             tbody
               tr
-                td(style="background: #F3FDF1") Adecuado manejo de información suministrada, garantizando satisfacción del usuario.
-                td(style="background: #F3FDF1") Compromiso por parte de los funcionarios de las diferentes dependencias de la empresa en la obtención de información actualizada. Atención del informador turístico acorde con lo solicitado por el usuario.
-                td(style="background: #F3FDF1") Asignar en el área de información turística personal calificado con conocimiento profundo de atractivos y prestadores de servicios. Actualizar permanentemente las bases de datos con los cambios de información. Controlar continuamente la ejecución de los servicios prestados.
-                td(style="background: #F3FDF1") Jefe de dependencia, administrador de la empresa o informador turístico.
-                td(style="background: #F3FDF1") Permanente.
+                td(style="background: #ffffff") Adecuado manejo de información suministrada, garantizando satisfacción del usuario.
+                td(style="background: #ffffff") Compromiso por parte de los funcionarios de las diferentes dependencias de la empresa en la obtención de información actualizada. Atención del informador turístico acorde con lo solicitado por el usuario.
+                td(style="background: #ffffff") Asignar en el área de información turística personal calificado con conocimiento profundo de atractivos y prestadores de servicios. Actualizar permanentemente las bases de datos con los cambios de información. Controlar continuamente la ejecución de los servicios prestados.
+                td(style="background: #ffffff") Jefe de dependencia, administrador de la empresa o informador turístico.
+                td(style="background: #ffffff") Permanente.
         p.text-center Fuente: Sena (2024).
 
 

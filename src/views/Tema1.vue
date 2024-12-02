@@ -117,43 +117,43 @@
           table
             thead
               tr
-                th TIPO
-                th SUBTIPO
-                th ACTIVIDAD
+                th(style="background: #99F59F") TIPO
+                th(style="background: #99F59F") SUBTIPO
+                th(style="background: #99F59F") ACTIVIDAD
             tbody
               tr
-                td(style="background: #D3F8CB") AÉREO
-                td(style="background: #D3F8CB") Vuelos regulares (cuentan con horarios definidos)
-                td(style="background: #D3F8CB") <b>Vuelos regionales:</b> se desplazan de una región a otra con distancias cercanas.<br><b>Vuelos nacionales:</b> no sobrepasan el territorio de un mismo país.<br><b>Vuelos internacionales:</b> sobrepasan el territorio nacional y se dirigen hacia otros países.<br><b>Vuelos intercontinentales:</b> sobrepasan el territorio de un continente para dirigirse a otro.
+                td(style="background: #EAFCEB") AÉREO
+                td(style="background: #EAFCEB") Vuelos regulares (cuentan con horarios definidos)
+                td(style="background: #EAFCEB") <b>Vuelos regionales:</b> se desplazan de una región a otra con distancias cercanas.<br><b>Vuelos nacionales:</b> no sobrepasan el territorio de un mismo país.<br><b>Vuelos internacionales:</b> sobrepasan el territorio nacional y se dirigen hacia otros países.<br><b>Vuelos intercontinentales:</b> sobrepasan el territorio de un continente para dirigirse a otro.
 
               tr
-                td(style="background: #F3FDF1") AÉREO
-                td(style="background: #F3FDF1") Vuelos no regulares (no cuentan con horarios definidos)
-                td(style="background: #F3FDF1") <b>Vuelos <em>charter</em>:</b> tiene un carácter discrecional ya que no se encuentran sujetos a un calendario, horario ni itinerario fijo.<br><b>Vuelos privados:</b> se refiere a las personas u organizaciones que tienen sus propios aviones privados.<br><b>Vuelos especiales:</b> tiene una serie de productos variados como excursiones de paracaidismo, visita panorámica, servicios especiales de fotografía, entre otros.
+                td(style="background: #F4FDF4") AÉREO
+                td(style="background: #F4FDF4") Vuelos no regulares (no cuentan con horarios definidos)
+                td(style="background: #F4FDF4") <b>Vuelos <em>charter</em>:</b> tiene un carácter discrecional ya que no se encuentran sujetos a un calendario, horario ni itinerario fijo.<br><b>Vuelos privados:</b> se refiere a las personas u organizaciones que tienen sus propios aviones privados.<br><b>Vuelos especiales:</b> tiene una serie de productos variados como excursiones de paracaidismo, visita panorámica, servicios especiales de fotografía, entre otros.
               tr
-                td(style="background: #D3F8CB") TERRESTRE
-                td(style="background: #D3F8CB") Transporte regular
-                td(style="background: #D3F8CB") Se encarga del transporte de pasajeros con horarios e itinerarios fijos. Es el más utilizado por los turistas nacionales, se toma especialmente en estaciones de autobuses.
+                td(style="background: #EAFCEB") TERRESTRE
+                td(style="background: #EAFCEB") Transporte regular
+                td(style="background: #EAFCEB") Se encarga del transporte de pasajeros con horarios e itinerarios fijos. Es el más utilizado por los turistas nacionales, se toma especialmente en estaciones de autobuses.
               tr
-                td(style="background: #F3FDF1") TERRESTRE
-                td(style="background: #F3FDF1") Transporte no regular
-                td(style="background: #F3FDF1") <b>Alquiler o renta de vehículos:</b> servicio prestado por empresas dedicadas al alquiler de vehículos con o sin conductor.<br><b>Transporte de diversión:</b> transporte utilizado para recorridos dentro y fuera de la ciudad especialmente para conocer lugares históricos.
+                td(style="background: #F4FDF4") TERRESTRE
+                td(style="background: #F4FDF4") Transporte no regular
+                td(style="background: #F4FDF4") <b>Alquiler o renta de vehículos:</b> servicio prestado por empresas dedicadas al alquiler de vehículos con o sin conductor.<br><b>Transporte de diversión:</b> transporte utilizado para recorridos dentro y fuera de la ciudad especialmente para conocer lugares históricos.
               tr
-                td(style="background: #D3F8CB") ACUÁTICO
-                td(style="background: #D3F8CB") Transporte marítimo
-                td(style="background: #D3F8CB") <b>Cruceros:</b> exclusivos para el transporte de personas a los diferentes puertos con atractivos turísticos.<br><b>Transbordadores:</b> son utilizados para el transporte de pasajeros, vehículos de un puerto a otro en distancias cortas.<br><b>Embarcaciones deportivas y recreativas:</b> utilizadas para el esparcimiento de los turistas; entre ellos encontramos, los yates, lanchas, veleros, botes, motonáuticas, entre otros.
+                td(style="background: #EAFCEB") ACUÁTICO
+                td(style="background: #EAFCEB") Transporte marítimo
+                td(style="background: #EAFCEB") <b>Cruceros:</b> exclusivos para el transporte de personas a los diferentes puertos con atractivos turísticos.<br><b>Transbordadores:</b> son utilizados para el transporte de pasajeros, vehículos de un puerto a otro en distancias cortas.<br><b>Embarcaciones deportivas y recreativas:</b> utilizadas para el esparcimiento de los turistas; entre ellos encontramos, los yates, lanchas, veleros, botes, motonáuticas, entre otros.
               tr
-                td(style="background: #F3FDF1") ACUÁTICO
-                td(style="background: #F3FDF1") Transporte lacustre
-                td(style="background: #F3FDF1") Utilizado para el recorrido en lagos o canales especialmente utilizados para el turismo ecológico, cultural y de aventura.
+                td(style="background: #F4FDF4") ACUÁTICO
+                td(style="background: #F4FDF4") Transporte lacustre
+                td(style="background: #F4FDF4") Utilizado para el recorrido en lagos o canales especialmente utilizados para el turismo ecológico, cultural y de aventura.
               tr
-                td(style="background: #D3F8CB") ACUÁTICO
-                td(style="background: #D3F8CB") Transporte fluvial turístico
-                td(style="background: #D3F8CB") Se encarga del transporte de pasajeros en embarcaciones pequeñas, a través de los ríos, con fines recreativos y ocasionales.
+                td(style="background: #EAFCEB") ACUÁTICO
+                td(style="background: #EAFCEB") Transporte fluvial turístico
+                td(style="background: #EAFCEB") Se encarga del transporte de pasajeros en embarcaciones pequeñas, a través de los ríos, con fines recreativos y ocasionales.
               tr
-                td(style="background: #F3FDF1") FERROCARIL
-                td(style="background: #F3FDF1") Transporte en trenes
-                td(style="background: #F3FDF1") Corresponde al uso de trenes para recorridos turísticos, especialmente en jiras que rescatan el carácter histórico del trayecto (Vera Bustamante & Godoy Reitze, 2012).
+                td(style="background: #F4FDF4") FERROCARIL
+                td(style="background: #F4FDF4") Transporte en trenes
+                td(style="background: #F4FDF4") Corresponde al uso de trenes para recorridos turísticos, especialmente en jiras que rescatan el carácter histórico del trayecto (Vera Bustamante & Godoy Reitze, 2012).
         p.text-center Fuente: Sena (2024).
 
 
@@ -182,17 +182,17 @@
     p.my-3 Las agencias de viajes son empresas intermediadoras entre los viajeros y los proveedores de servicios turísticos; se encargan del asesorar e informar al viajero, de diseñar y comercializar distintos productos turísticos. Actúan como fuentes de información sobre corrientes turísticas (Cabarcos Novás, 2011).<br><b>Las agencias de viajes desarrollan principalmente tres funciones:</b>
 
     .row.justify-content-center.my-3
-      .col-lg-3.col-md-10.p-0.my-3(style="background: #99E7FF; border-radius: 35px")
+      .col-lg-3.col-md-10.p-0.my-3(style="background: #C7F1FA; border-radius: 35px")
         figure
           img.mx-0(src="@/assets/curso/temas/tema1/img13.png", alt="imagen decorativa")
         p.ali.px-3.pt-3.text-center <b>La función asesora:</b>
         p.px-3.text-center Se ocupa de informar a los clientes sobre las características de los diversos destinos y servicios turísticos que se ofrecen. La incorporación de las TIC en las agencias de viajes les ha permitido mejorar su competitividad en los tiempos de respuesta, logrando así, el acceso a los sistemas globales de información turística.
-      .col-lg-3.col-md-10.p-0.my-3.mx-3(style="background: #D3F8CB; border-radius: 35px")
+      .col-lg-3.col-md-10.p-0.my-3.mx-3(style="background: #EAFCEB; border-radius: 35px")
         figure
           img.mx-0(src="@/assets/curso/temas/tema1/img14.png", alt="imagen decorativa")
         p.ali.px-3.pt-3.text-center <b>La función mediadora:</b>
         p.px-3.text-center Tiene como objetivo negociar, gestionar e intermediar; reservando y comprando los diversos servicios turísticos solicitados por el cliente.
-      .col-lg-3.col-md-10.p-0.my-3(style="background: #99E7FF; border-radius: 35px")
+      .col-lg-3.col-md-10.p-0.my-3(style="background: #C7F1FA; border-radius: 35px")
         figure
           img.mx-0(src="@/assets/curso/temas/tema1/img15.png", alt="imagen decorativa")
         p.ali.px-3.pt-3.text-center <b>La Función productora:</b>
