@@ -97,7 +97,7 @@ export default {
     {
       tema: 'El mercado turístico',
       referencia:
-        'cosistema de Recursos Educativos Digitales SENA. (2022). El mercado turístico. [Archivo de video]. YouTube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2022). El mercado turístico. [Archivo de video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/embed/IRDX0fHe254?si=V2dHoN7UquWR5KmR',
     },
