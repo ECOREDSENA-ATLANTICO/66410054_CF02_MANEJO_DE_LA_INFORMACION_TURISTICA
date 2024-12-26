@@ -59,7 +59,7 @@
         .row.justify-content-center.p-3
           .col-xl-7.col-lg-12.col-md-12.align-content-center  
             h5 Pensión
-            p Establecimiento que presta en forma permanente el servicio de alojamiento en habitaciones, con servicio sanitario privado y/o común colectivo. Por requerimiento del huésped se ofrece servicio de alimentación bajo el régimen completo o medio; siendo su tarifa de alojamiento periódica — diaria, semanal, quincenal o mensual — e incluirá en cada caso el régimen de comidas convenido con el huésped. (Minep - Ministerio para la Economía Popular. Instituto Nacional de Cooperación Educativa, 2005)
+            p Establecimiento que presta en forma permanente el servicio de alojamiento en habitaciones, con servicio sanitario privado y/o común colectivo. Por requerimiento del huésped se ofrece servicio de alimentación bajo el régimen completo o medio; siendo su tarifa de alojamiento periódica — diaria, semanal, quincenal o mensual — e incluirá en cada caso el régimen de comidas convenido con el huésped. (Minep - Ministerio para la Economía Popular. Instituto Nacional de Cooperación Educativa, 2005).
           .col-xl-5.col-lg-8.col-md-8.align-content-center  
             figure
               img(src='@/assets/curso/temas/tema1/img7.png', alt='Imagen decorativa')
@@ -67,7 +67,7 @@
         .row.justify-content-center.p-3
           .col-xl-7.col-lg-12.col-md-12.align-content-center  
             h5 Balnearios o clínicas de recuperación
-            p Establecimiento que ofrecen programas de relajación, antiestrés y curas de desintoxicación, basándose en las necesidades actuales de la gente y en su ritmo de vida. Otra de las alternativas es servicio de alojamiento y programas médicos de rehabilitación, curación o prevención de enfermedades, muchos de ellos destinados a personas de avanzada edad o con patologías específicas. (Abalnearios.com, 2014)
+            p Establecimiento que ofrecen programas de relajación, antiestrés y curas de desintoxicación, basándose en las necesidades actuales de la gente y en su ritmo de vida. Otra de las alternativas es servicio de alojamiento y programas médicos de rehabilitación, curación o prevención de enfermedades, muchos de ellos destinados a personas de avanzada edad o con patologías específicas. (Abalnearios.com, 2014).
           .col-xl-5.col-lg-8.col-md-8.align-content-center  
             figure
               img(src='@/assets/curso/temas/tema1/img8.png', alt='Imagen decorativa')
@@ -105,7 +105,8 @@
       .col.px-0
         h3.mb-0 Servicios de transporte turístico
     
-    p.my-3 Constituye una de las principales actividades del servicio turístico, y consiste en transportar o trasladar a los viajeros o turistas con sus equipajes y mercancía, desde su residencia habitual a los lugares visitados.<br>Existen cuatro tipos diferentes de servicios de transporte utilizados como parte fundamental del producto o servicio turístico.
+    p.my-3 Constituye una de las principales actividades del servicio turístico, y consiste en transportar o trasladar a los viajeros o turistas con sus equipajes y mercancía, desde su residencia habitual a los lugares visitados.
+    p.my-3 Existen cuatro tipos diferentes de servicios de transporte utilizados como parte fundamental del producto o servicio turístico.
 
     
     .row.justify-content-center.my-3
@@ -151,7 +152,7 @@
                 td(style="background: #EAFCEB") Transporte fluvial turístico
                 td(style="background: #EAFCEB") Se encarga del transporte de pasajeros en embarcaciones pequeñas, a través de los ríos, con fines recreativos y ocasionales.
               tr
-                td(style="background: #F4FDF4") FERROCARIL
+                td(style="background: #F4FDF4") FERROCARRIL
                 td(style="background: #F4FDF4") Transporte en trenes
                 td(style="background: #F4FDF4") Corresponde al uso de trenes para recorridos turísticos, especialmente en jiras que rescatan el carácter histórico del trayecto (Vera Bustamante & Godoy Reitze, 2012).
         p.text-center Fuente: Sena (2024).

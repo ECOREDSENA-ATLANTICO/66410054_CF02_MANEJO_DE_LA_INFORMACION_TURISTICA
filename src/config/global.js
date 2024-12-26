@@ -96,7 +96,8 @@ export default {
   complementario: [
     {
       tema: 'El mercado turístico',
-      referencia: 'Ecosistema recursos SENA [Video]. YouTube.',
+      referencia:
+        'cosistema de Recursos Educativos Digitales SENA. (2022). El mercado turístico. [Archivo de video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/embed/IRDX0fHe254?si=V2dHoN7UquWR5KmR',
     },
@@ -150,7 +151,7 @@ export default {
     {
       termino: 'Formato',
       significado:
-        'es la forma y tamaño de presentación de una información ya sea impresa o escrita.',
+        'es la forma y tamaño de presentación de una información, ya sea impresa o escrita.',
     },
     {
       termino: 'Medio de transporte',
@@ -170,7 +171,7 @@ export default {
     {
       termino: 'Satisfacción',
       significado:
-        'es el cumplimento de una necesidad o deseo que cause alegría y placer.',
+        'es el cumplimiento de una necesidad o deseo que cause alegría y placer.',
     },
     {
       termino: 'TIC',
@@ -179,14 +180,14 @@ export default {
     {
       termino: 'Turista',
       significado:
-        'aquellas personas que se trasladan de su domicilio habitual a otro punto geográfico, estando ausente de su lugar de residencia habitual por más de 24 horas y pernoctando en otro sito.',
+        'aquellas personas que se trasladan de su domicilio habitual a otro punto geográfico, estando ausente de su lugar de residencia habitual por más de 24 horas y pernoctando en otro sitio.',
     },
   ],
   referencias: [
     {
       referencia:
-        'Abalnearios.com. (2014). Tipos de centros. recuperado el 15 de 02 de 2014, de',
-      link: 'http://www.abalnearios.com/',
+        'Abalnearios.com. (2014). Tipos de centros. recuperado el 15 de 02 de 2014.',
+      link: '',
     },
     {
       referencia:
@@ -299,7 +300,7 @@ export default {
         },
         {
           nombre: 'Rafael Bladimir Pérez Meriño',
-          cargo: 'Desarrollador <em>fullstack</em>',
+          cargo: 'Desarrollador <em>full stack</em>',
           centro:
             'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
         },

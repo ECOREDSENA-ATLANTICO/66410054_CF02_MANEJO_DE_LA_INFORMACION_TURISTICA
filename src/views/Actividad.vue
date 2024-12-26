@@ -134,7 +134,7 @@ export default {
         {
           id: 5,
           texto:
-            'La publicidad en redes sociales es una forma de promoción porque:',
+            '¿La publicidad en redes sociales es una forma de promoción porque?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -195,7 +195,8 @@ export default {
         },
         {
           id: 7,
-          texto: 'Disminuir la producción de productos',
+          texto:
+            '¿Qué tipo de informes se elaboran en el sector de servicio para medir la satisfacción del cliente?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -368,7 +369,7 @@ export default {
         {
           id: 13,
           texto:
-            '¿La promoción de productos en fechas especiales, como Black Friday, es un ejemplo de:',
+            '¿La promoción de productos en fechas especiales, como Black Friday, es un ejemplo de?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
